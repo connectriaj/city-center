@@ -9,3 +9,10 @@
 body {
   background-color: #e5e5e5;
 }
+
+/* for responsive design styles */
+@media only screen and (max-width: 576px) {
+  .banner-image {
+    height: 586px;
+  }
+}
